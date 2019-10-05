@@ -2,5 +2,14 @@
   "name": "hayaimori",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "24.9.0",
+    "webpack": "4.41.0"
+  },
+  "dependencies": {
+    "redux": "4.0.4",
+    "rxjs": "6.5.3",
+    "mithril": "2.0.4"
+  }
 }
